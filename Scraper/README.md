@@ -1,0 +1,1 @@
+gathering resumes and jobs to be parsed and stored in a database or a csv
