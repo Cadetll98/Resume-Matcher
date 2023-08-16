@@ -1,8 +1,8 @@
 # Resume-Matcher
 Match Resume(s) to Job Description(s) and vice versa.
 
-## Repo Structure
-Update later.
+## Data (Cleaned)
+https://drive.google.com/drive/folders/1EaUqtm4reDkQpLrZjRcLKWc72ljtrki0?usp=sharing
 
 ## Collaborators
 1. Ruchit Patel
